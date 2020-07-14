@@ -20,7 +20,6 @@ class Traveler {
     }
 }
 
-
 class Wagon {
     constructor(capacity,) {
         this.capacity = capacity
